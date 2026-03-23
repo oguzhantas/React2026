@@ -29,11 +29,15 @@ Push metodu ile sayfa yönlendirme
 
 7) "npx create-expo-app projem" yaz
 
-8) "cd projem" ile proje klaösrüne gir.
+8) "cd projem" ile proje klasörüne gir.
 
 9) "npm run web" yaz ve tarayıcı üzerinde çalıştır.
 
 10) Android Studio'da emülatör açıksa "npm run android" yaz emülatörde çalıştır.
 
-Dr. Oğuzhan TAŞ
+Dr. Oğuzhan TAŞ 
+
+http://www.oguzhantas.com
+
+http://oguzhantas.github.io
 
