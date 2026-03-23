@@ -2,9 +2,15 @@
 
 Merhaba React
 
-Text, View, StyleSheet kullanımı
+Text, View kullanımı
 
-flex kullanımı, Dikey ve Yatay Yönlendirme
+StyleSheet ile nesne biçimlendirme
+
+flex kullanımı, Ekranı ikiye ve üçe bölme
+
+flex ile Dikey ve Yatay Yönlendirme
+
+const ile ogrenci veriyapısı tanımlama
 
 İnternetten Resim Ekleme
 
